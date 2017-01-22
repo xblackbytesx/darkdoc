@@ -1,0 +1,8 @@
+author = "Fabio Bier"
+description = "Darkdoc is an easy on the eyes dark theme for Hugo"
+license = "MIT"
+licenselink = "https://github.com/xblackbytesx/darkdoc/blob/master/LICENSE"
+name = "darkdoc"
+source_repo = "https://github.com/xblackbytesx/darkdoc"
+tags = ["", ""]
+min_version=0.14
