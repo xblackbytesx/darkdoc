@@ -1,2 +1,4 @@
-node_modules
 layouts/partials/piwik.html
+
+# sass
+node_modules/

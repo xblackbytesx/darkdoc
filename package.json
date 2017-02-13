@@ -1,0 +1,24 @@
+{
+  "name": "darkdoc",
+  "version": "1.0.0",
+  "description": "Darkdoc is an easy on the eyes dark theme for Hugo.",
+  "repository": "git@github.com:xblackbytesx/darkdoc.git",
+  "author": "Fabio Bier",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --progress --colors --watch"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^v2.0.0-rc.3",
+    "node-sass": "^4.5.0",
+    "normalize.css": "^5.0.0",
+    "optimize-css-assets-webpack-plugin": "^1.3.0",
+    "perfectionist": "^2.4.0",
+    "postcss-discard-comments": "^2.0.4",
+    "sass-loader": "^5.0.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1"
+  }
+}
